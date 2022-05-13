@@ -2,7 +2,7 @@
 
 Documentación de flujo de trabajo remoto con GIT
 
-##Organización
+## Organización
 Se recomienda crear una organización que sea la propietaria del repositorio principal. A partir de dicho repositorio los miembros o colaboradores podran hacer un fork hacia sus cuentas personales
 
 ### Pasos para crear un organización
@@ -15,7 +15,18 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 
 
 ## Creacion de Fork
-
+ 
 PAra crear un fork debes inciiar sesion en Github y luego ingresar a la landing page del proyecto al proyecto del que quieras sacar tu fork.
+
+## Como trabajar con 2 o mas remote
+Listar remotos
+'git remote -v'
+
+Agregar remotos
+'git remote add EDgit direccion del proyectoPrincial'
+
+Eliminar remotes
+'git remote remove EDgit'
+
 
 
