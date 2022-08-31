@@ -28,5 +28,9 @@ Agregar remotos
 Eliminar remotes
 'git remote remove EDgit'
 
+## Para hacer el pull Request
+add into al readme.md
+
+
 
 
