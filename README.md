@@ -36,3 +36,8 @@ add into al readme.md
 Estos cambios son minimos
 
 
+### cambios desde el cj3
+Para crear un fork debes iniciar sesion en el github y luego ingresar a la landing page del proyecto del que quieras sacar tu fork.
+
+
+
