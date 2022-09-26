@@ -32,5 +32,7 @@ Eliminar remotes
 add into al readme.md
 
 
+# se agrego cambios al readme y colaborador
+Estos cambios son minimos
 
 
