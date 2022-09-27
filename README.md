@@ -38,3 +38,11 @@ tambien en colaboradores.md
 Agregue informacion desde cj3
 
 
+## Se agrego desde cj3-rama "instrucciones-ramas"
+se agrego informacion tanto en readme y colaboradores
+1. Paso 1: xxx
+2. Paso 2: yyy
+3. Paso 3: zzz
+
+Se va a pedir hacer un pull request desde Instrucciones-ramas al principal 'dev'
+
