@@ -32,12 +32,9 @@ Eliminar remotes
 add into al readme.md
 
 
-# se agrego cambios al readme y colaborador
-Estos cambios son minimos
-
-
-### cambios desde el cj3
-Para crear un fork debes iniciar sesion en el github y luego ingresar a la landing page del proyecto del que quieras sacar tu fork.
-
+## Se agrego la rama dev 
+add into al readme.md y 
+tambien en colaboradores.md
+Agregue informacion desde cj3
 
 
