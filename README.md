@@ -32,5 +32,9 @@ Eliminar remotes
 add into al readme.md
 
 
+## Se agrego la rama dev 
+add into al readme.md y 
+tambien en colaboradores.md
+Agregue informacion desde cj3
 
 
