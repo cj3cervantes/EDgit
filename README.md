@@ -46,3 +46,11 @@ se agrego informacion tanto en readme y colaboradores
 
 Se va a pedir hacer un pull request desde Instrucciones-ramas al principal 'dev'
 
+
+## creando etiquetas
+Es necesario entender que las etiquetas o release solo deben ser 
+creadas en la rama master como buena práctica (.. incompleto).
+Ahora termino de completar la parte del contenido.
+
+Para entender como llamar o categorizar las versiones esta en: 
+https://ed.team/blog/como-se-deciden-las-versiones-del-software
